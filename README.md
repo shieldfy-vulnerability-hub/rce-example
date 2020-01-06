@@ -2,7 +2,7 @@
 
 ## there is 2 vulnerability
 
-1. rce in `index.vuln.js` line `15`
+1. rce in `index.vuln.js` line `14`
 
 ```js
 
